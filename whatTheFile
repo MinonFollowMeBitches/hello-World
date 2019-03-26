@@ -5,6 +5,14 @@ public class vovo
   
   System.out.println("I've been here before a few times.);
   System.out.println("Not bragging but my bio is You");
+        
+        String Delima = "Joneeel";
+        String handsome = "Ronnel Palenzuela";
+        
+        if ( Joneeel = Ronnel Palenzuela) 
+        {
+        System.out.println("Ronnel Palenzuela");
+        }
   
   }
 }
